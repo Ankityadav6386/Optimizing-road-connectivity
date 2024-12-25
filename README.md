@@ -34,7 +34,7 @@ damage, or increased traffic.
 
 ## Installation
 
-To get started with Hack-A-Sol 3.0, follow these steps:
+To get started  follow these steps:
 
 1. Clone the repository:
    ```bash
