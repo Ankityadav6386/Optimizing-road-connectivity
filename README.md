@@ -43,7 +43,7 @@ To get started with Hack-A-Sol 3.0, follow these steps:
 
 2. Navigate to the project directory
 ```bash     
-cd Hack-A-Sol-3.0
+cd Optimizing-road-connectivity
 ``` 
 
 3. Install the required dependencies:
